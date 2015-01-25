@@ -1,4 +1,4 @@
-setwd("c:/coursera/getdata")
+#setwd("c:/coursera/getdata")
 
 
 if (!require("data.table")) {
